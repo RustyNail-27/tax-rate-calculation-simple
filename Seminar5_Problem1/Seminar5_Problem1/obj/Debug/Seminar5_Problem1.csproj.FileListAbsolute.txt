@@ -1,0 +1,9 @@
+c:\users\russ\documents\visual studio 2013\Projects\Seminar5_Problem1\Seminar5_Problem1\bin\Debug\Seminar5_Problem1.exe.config
+c:\users\russ\documents\visual studio 2013\Projects\Seminar5_Problem1\Seminar5_Problem1\bin\Debug\Seminar5_Problem1.exe
+c:\users\russ\documents\visual studio 2013\Projects\Seminar5_Problem1\Seminar5_Problem1\bin\Debug\Seminar5_Problem1.pdb
+c:\users\russ\documents\visual studio 2013\Projects\Seminar5_Problem1\Seminar5_Problem1\obj\Debug\Seminar5_Problem1.csprojResolveAssemblyReference.cache
+c:\users\russ\documents\visual studio 2013\Projects\Seminar5_Problem1\Seminar5_Problem1\obj\Debug\Seminar5_Problem1.Form1.resources
+c:\users\russ\documents\visual studio 2013\Projects\Seminar5_Problem1\Seminar5_Problem1\obj\Debug\Seminar5_Problem1.Properties.Resources.resources
+c:\users\russ\documents\visual studio 2013\Projects\Seminar5_Problem1\Seminar5_Problem1\obj\Debug\Seminar5_Problem1.csproj.GenerateResource.Cache
+c:\users\russ\documents\visual studio 2013\Projects\Seminar5_Problem1\Seminar5_Problem1\obj\Debug\Seminar5_Problem1.exe
+c:\users\russ\documents\visual studio 2013\Projects\Seminar5_Problem1\Seminar5_Problem1\obj\Debug\Seminar5_Problem1.pdb
